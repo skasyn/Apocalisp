@@ -1,0 +1,7 @@
+*~
+vgcore.*
+*.o
+*.hi
+main
+.idea
+alisp2

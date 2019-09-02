@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require_relative './modules/Interpretor'
+
+parser = Interpretor.new()
+parser.lisp_interpretor
